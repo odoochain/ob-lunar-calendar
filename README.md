@@ -3,8 +3,10 @@
 
 ![](screenshot.png)
 
-# 联系方式
+## 日历样式
+![](calendar-day.png) ![](calendar-day-night.png)
+## 纯月历样式
+![](calendar-lunar.png) ![](calendar-lunar-night.png)
 
-QQ群：593713944  
-
-邮箱：hongchenyixiao555@qq.com  
+# 功能更新
+- 支持了浅色与深色模式
